@@ -1,5 +1,6 @@
 package v1oop.practicum.practicum2b;
 
+
 public class Voetbalclub {
     private String club;
     private int aantalGewonnen;
